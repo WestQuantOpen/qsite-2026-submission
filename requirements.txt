@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+networkx>=3.0
+matplotlib>=3.7
+pennylane>=0.30
+qiskit>=0.44
+jupyter>=1.0
+pandas>=2.0
